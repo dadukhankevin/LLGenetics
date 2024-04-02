@@ -1,0 +1,7 @@
+finch-genetics
+tabulate
+matplotlib
+textblob
+spacy
+spacy-wordnet
+en-core-web-sm
